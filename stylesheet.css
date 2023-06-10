@@ -1,0 +1,12 @@
+html{background-color: rgb(155, 0, 0);}
+header{text-align: center;}
+p{text-align: justify;}
+body {
+    margin: 100px 250px 250px 250px;
+    background-color: #fdd297;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid rgb(255, 206, 83);
+  }
+header{font-size: 30px
+    ;}
+p {font-size: 20px;}
